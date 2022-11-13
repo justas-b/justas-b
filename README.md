@@ -1,17 +1,27 @@
-<h1 align="center">Hi 👋, I'm Justas</h1>
-<h3 align="center">Trainee Software Engineer at Sigma Labs | MSci Physics Graduate</h3>
+### Hello! I'm Justas 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=justas-b&label=Profile%20views&color=349211&style=flat-square" alt="justas-b" /> </p>
+Trainee Software and Data Engineer at [Sigma Labs](https://www.sigmalabs.co.uk/) | MSci Physics graduate from Royal Holloway
 
-- 🔭 I’m currently working on **training related projects**
+Deep interests in data, machine learning and quantum computing
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/justasbauras" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="justasbauras" height="30" width="40" /></a>
-<a href="https://kaggle.com/justaso" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="justaso" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/justasb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="justasb" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/justasbauras" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="justasbauras" height="30" width="40" /></a>
+I am currently learning the fundementals of modern day full stack development 🛠️
+
+## Connect With Me 💬
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=blue)](https://www.linkedin.com/in/justasbauras/)
+
+## Tools 🛠️
+![My Skills](https://skillicons.dev/icons?i=py,js,cpp,postgres,html,css,bash,flask)
+
+<details>
+<summary> ⚡ Github Stats</summary>
+<br>
+<!-- 
+<p>
+  <a href="#"><img src="https://github-readme-streak-stats.herokuapp.com/?user=justas-b&count_private=true" width="400"></a>
+</p>
+  -->
+ <p>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=justas-b&show_icons=true&count_private=true" width="400"></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> </p>
+</details>
