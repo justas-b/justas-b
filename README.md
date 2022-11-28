@@ -4,7 +4,7 @@ Trainee Software and Data Engineer at [Sigma Labs](https://www.sigmalabs.co.uk/)
 
 Deep interests in data, machine learning and quantum computing
 
-I am currently learning the fundementals of modern day full stack development 🛠️
+I am currently diving into data engineering 🛠️
 
 ## Connect With Me 💬
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=blue)](https://www.linkedin.com/in/justasbauras/)
