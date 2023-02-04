@@ -10,7 +10,7 @@ I am currently diving into data engineering 🛠️
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=blue)](https://www.linkedin.com/in/justasbauras/)
 
 ## Tools 🛠️
-![My Skills](https://skillicons.dev/icons?i=py,js,cpp,postgres,html,css,bash,flask)
+![My Skills](https://skillicons.dev/icons?i=py,js,cpp,postgres,html,css,bash,flask,aws,docker,kafka,latex,mysql,)
 
 <details>
 <summary> ⚡ Github Stats</summary>
