@@ -1,10 +1,8 @@
 ### Hello! I'm Justas 👋
 
-Trainee Software and Data Engineer at [Sigma Labs](https://www.sigmalabs.co.uk/) | MSci Physics graduate from Royal Holloway
+Junior Data Engineer at [Sigma Labs](https://www.sigmalabs.co.uk/) | MSci Physics graduate from Royal Holloway
 
 Deep interests in data, machine learning and quantum computing
-
-I am currently diving into data engineering 🛠️
 
 ## Connect With Me 💬
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=blue)](https://www.linkedin.com/in/justasbauras/)
