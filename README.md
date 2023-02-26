@@ -23,3 +23,5 @@ Deep interests in data, machine learning and quantum computing
 </p>
 
 </details>
+
+[![Justas' GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=justas-b&theme=algolia&show_icons=true)](https://github.com/justas-b)
