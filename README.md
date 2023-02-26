@@ -24,4 +24,4 @@ Deep interests in data, machine learning and quantum computing
 
 </details>
 
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=justas-b)](https://github.com/justas-b/github-readme-stats)
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=justas-b&hide=jupyter%20notebook)](https://github.com/justas-b/github-readme-stats)
