@@ -2,7 +2,7 @@
 
 Junior Data Engineer at [Sigma Labs](https://www.sigmalabs.co.uk/) | MSci Physics graduate from Royal Holloway
 
-Deep interests in data, machine learning and quantum computing
+Deep interests in data, machine learning, quantum computing, financial markets and all things tech!
 
 ## Connect With Me 💬
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=blue)](https://www.linkedin.com/in/justasbauras/)
@@ -23,5 +23,3 @@ Deep interests in data, machine learning and quantum computing
 </p>
 
 </details>
-
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=justas-b&hide=jupyter%20notebook)](https://github.com/justas-b/github-readme-stats)
