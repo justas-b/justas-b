@@ -1,6 +1,6 @@
 ### Hello! I'm Justas 👋
 
-Junior Data Engineer at [Sigma Labs](https://www.sigmalabs.co.uk/) | MSci Physics graduate from Royal Holloway
+Junior Consultant at [Sigma Labs](https://www.sigmalabs.co.uk/) | Oil Data Management Analyst at a natural resource company | MSci Physics graduate from Royal Holloway
 
 Deep interests in data, machine learning, quantum computing, financial markets and all things tech!
 
@@ -8,7 +8,7 @@ Deep interests in data, machine learning, quantum computing, financial markets a
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=blue)](https://www.linkedin.com/in/justasbauras/)
 
 ## Tools 🛠️
-![My Skills](https://skillicons.dev/icons?i=py,js,cpp,postgres,html,css,bash,flask,aws,docker,kafka,latex,mysql,)
+![My Skills](https://skillicons.dev/icons?i=py,js,cpp,postgres,html,css,bash,flask,aws,docker,kafka,latex,mysql,git,github,md,vscode)
 
 <details>
 <summary> ⚡ Github Stats</summary>
