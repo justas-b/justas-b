@@ -8,7 +8,7 @@ Deep interests in data, machine learning, quantum computing, electronics, financ
 
 I am very open to collaborations and would love to work on projects with other people - do shoot me a message if you are interested in building something cool 😎!
 
-NB: This is my personal GitHub, however, I do also have a work GitHub which I cannot share for security purposes.
+NB: This is my personal GitHub, however, I do also have a very active work GitHub that I cannot share for security purposes.
 
 ## Connect With Me 💬
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=blue)](https://www.linkedin.com/in/justasbauras/)
