@@ -10,6 +10,12 @@ I am very open to collaborations and would love to work on projects with other p
 
 NB: This is my personal GitHub, however, I do also have a very active work GitHub that I cannot share for security purposes.
 
+Tools that I currently use most frequently:
+- Python
+- SQL
+- ZEMA
+- Git
+
 ## Connect With Me 💬
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=blue)](https://www.linkedin.com/in/justasbauras/)
 
