@@ -15,6 +15,7 @@ Tools that I currently use most frequently:
 - SQL
 - ZEMA
 - Git
+- Excel
 
 ## Connect With Me 💬
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=blue)](https://www.linkedin.com/in/justasbauras/)
