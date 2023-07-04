@@ -1,6 +1,6 @@
 ### Hello! I'm Justas 👋
 
-Data Management Analyst - Oil Risk at a Globally Diversified Natural Resource Company \
+Market Data Engineer - Oil Risk at a Globally Diversified Natural Resource Company \
 Junior Consultant - [Sigma Labs](https://www.sigmalabs.co.uk/) \
 MSci Physics 1st Class - Royal Holloway University of London
 
