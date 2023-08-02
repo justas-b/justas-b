@@ -1,7 +1,7 @@
 ### Hello! I'm Justas 👋
 
-Market Data Engineer - Oil Risk at a Globally Diversified Natural Resource Company \
 Junior Consultant - [Sigma Labs](https://www.sigmalabs.co.uk/) \
+Deployed to Glencore as a Market Data Analyst/Engineer in Oil Risk - working on several market data projects\
 MSci Physics 1st Class - Royal Holloway University of London
 
 Deep interests in data, machine learning, quantum computing, electronics, financial markets and all things tech related!
