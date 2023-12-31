@@ -1,6 +1,6 @@
 ### Hello! I'm Justas 👋
 
-Junior Technology Consultant - [Sigma Labs](https://www.sigmalabs.co.uk/) \
+Market Data Engineer - Glencore | Junior Technology Consultant - [Sigma Labs](https://www.sigmalabs.co.uk/) \
 Deployed to Glencore as a Market Data Engineer in Oil Risk - working on several market data projects, ranging from automation, validation, development, enrichment and analysis\
 MSci Physics 1st Class - Royal Holloway University of London
 
