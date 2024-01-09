@@ -1,7 +1,7 @@
 ### Hello! I'm Justas 👋
 
 Market Data Engineer - Glencore | Junior Technology Consultant - [Sigma Labs](https://www.sigmalabs.co.uk/) \
-Deployed to Glencore as a Market Data Engineer in Oil Risk - working on several market data projects, ranging from automation, validation, development, enrichment and analysis\
+Deployed to Glencore as a Market Data Engineer in Commercial Engineering - working on several market data projects, that include automation, validation, development, enrichment and analysis\
 MSci Physics 1st Class - Royal Holloway University of London
 
 Deep interests in data, machine learning, quantum computing, electronics, financial markets and all things tech-related!
@@ -12,7 +12,7 @@ NB: This is my personal GitHub, however, I also have a very active work GitHub t
 
 Tools that I use daily:
 - Python
-- SQL
+- SQL (Oracle)
 - ZEMA
 - Git
 - Excel
