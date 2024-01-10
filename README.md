@@ -1,10 +1,9 @@
 ### Hello! I'm Justas 👋
 
-Market Data Engineer - Glencore | Junior Technology Consultant - [Sigma Labs](https://www.sigmalabs.co.uk/) \
 Deployed to Glencore as a Market Data Engineer in Commercial Engineering - working on several market data projects, that include automation, validation, development, enrichment and analysis\
-MSci Physics 1st Class - Royal Holloway University of London
+MSci Physics - Royal Holloway University of London
 
-Deep interests in data, machine learning, quantum computing, electronics, financial markets and all things tech-related!
+Deep interests in data, machine learning, quantum computing, electronics, financial markets, DIY, nature and photography!
 
 I am very open to collaborations and would love to work on projects with other people - do shoot me a message if you are interested in building something cool 😎!
 
@@ -21,7 +20,7 @@ Tools that I use daily:
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=blue)](https://www.linkedin.com/in/justasbauras/)
 
 ## Tools 🛠️
-![My Skills](https://skillicons.dev/icons?i=py,js,cpp,postgres,html,css,bash,flask,aws,docker,kafka,latex,mysql,git,github,md,vscode)
+![My Skills](https://skillicons.dev/icons?i=py,js,cpp,postgres,html,css,bash,flask,aws,docker,latex,mysql,git,github,md,vscode)
 
 <details>
 <summary> ⚡ Github Stats</summary>
