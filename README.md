@@ -1,13 +1,10 @@
 ### Hello! I'm Justas 👋
 
 - Deployed to Glencore as a Market Data Engineer in Commercial Engineering (on behalf of Sigma Labs) - working on several market data projects, that include automation, validation, development, enrichment and analysis.
+  
 - MSci Physics - Royal Holloway University of London.
 
-- Deep interests in data, machine learning, quantum computing, electronics, financial markets, DIY, nature and photography!
-
 - I am very open to collaborations and would love to work on projects with other people - do shoot me a message if you are interested in building something cool!
-
-- NB: This is my personal GitHub, however, I also have a very active work GitHub that I cannot share for security purposes.
 
 - Tools that I use daily:
   - Python
