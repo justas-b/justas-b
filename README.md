@@ -6,6 +6,8 @@
 
 - I am very open to collaborations and would love to work on projects with other people - do shoot me a message if you are interested in building something cool!
 
+- Experienced in e-commerce, financial markets, commodities, data engineering and analytics, software development, automation, validation and more ;)
+
 - Tools that I use daily:
   - Python
   - SQL (Oracle)
