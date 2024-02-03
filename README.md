@@ -16,8 +16,11 @@
 ## Connect With Me 💬
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=blue)](https://www.linkedin.com/in/justasbauras/)
 
-## Tools 🛠️
-![My Skills](https://skillicons.dev/icons?i=py,js,cpp,postgres,html,css,bash,flask,aws,docker,latex,mysql,git,github,md,vscode)
+## Frequently Used Tools 🟩🛠️
+![My Skills](https://skillicons.dev/icons?i=py,html,css,bash,,git,github,md,vscode)
+
+## Past Exposure 🟨🛠️
+![My Skills](https://skillicons.dev/icons?i=js,cpp,postgres,flask,aws,docker,latex,mysql)
 
 <details>
 <summary> ⚡ Github Stats</summary>
