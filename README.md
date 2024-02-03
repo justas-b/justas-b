@@ -17,7 +17,7 @@
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=blue)](https://www.linkedin.com/in/justasbauras/)
 
 ## Frequently Used Tools 🟩🛠️
-![My Skills](https://skillicons.dev/icons?i=py,html,css,bash,,git,github,md,vscode)
+![My Skills](https://skillicons.dev/icons?i=py,html,css,bash,git,github,md,vscode)
 
 ## Past Exposure 🟨🛠️
 ![My Skills](https://skillicons.dev/icons?i=js,cpp,postgres,flask,aws,docker,latex,mysql)
