@@ -4,7 +4,7 @@
   
 - MSci Physics - Royal Holloway University of London.
   
-- Experienced in e-commerce, financial markets, commodities, data engineering and analytics, software development, automation, validation and more!
+- Experienced in e-commerce, financial markets, commodities, data engineering and analytics, software development, deployment and maintenance, automation, validation and more!
   
 - I am very open to collaborations and would love to work on projects with other people - do shoot me a message if you are interested in building something cool!
 
@@ -13,16 +13,18 @@
   - SQL (Oracle)
   - ZEMA
   - Git
+  - Docker
+  - AKS
   - Excel
 
 ## Connect With Me 💬
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=blue)](https://www.linkedin.com/in/justasbauras/)
 
 ## Frequently Used Tools 🟩🛠️
-![My Skills](https://skillicons.dev/icons?i=py,html,css,bash,powershell,git,github,md,vscode,regex)
+![My Skills](https://skillicons.dev/icons?i=py,html,css,bash,powershell,git,github,githubactions,md,vscode,regex,docker,azure,kubernetes)
 
 ## Past Exposure 🟨🛠️
-![My Skills](https://skillicons.dev/icons?i=fastapi,js,cpp,postgres,postman,flask,aws,docker,latex,mysql,anaconda,sklearn)
+![My Skills](https://skillicons.dev/icons?i=fastapi,js,cpp,postgres,postman,flask,aws,latex,mysql,anaconda,sklearn)
 
 <details>
 <summary> ⚡ Github Stats</summary>
