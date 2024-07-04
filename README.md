@@ -1,6 +1,6 @@
 ### Hello! I'm Justas 👋
 
-- Deployed to Glencore as a Market Data Engineer in Commercial Engineering (on behalf of Sigma Labs) - working on several market data projects, that include automation, validation, development and data (enablement, enrichment and analysis).
+- Market data engineer at Glencore - working on several market data projects, that include automation, validation, development and data (enablement, enrichment and analysis).
   
 - MSci Physics - Royal Holloway University of London.
   
