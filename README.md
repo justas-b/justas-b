@@ -4,7 +4,7 @@
   
 - MSci Physics - Royal Holloway University of London.
   
-- Experienced in e-commerce, financial markets, commodities, data engineering and analytics, software development, deployment and maintenance, automation, validation and more!
+- Experienced in e-commerce, financial markets, commodities, data engineering and analytics (highly concentrated on time series and financial data), software development, deployment and maintenance, automation, validation and more!
   
 - I am very open to collaborations and would love to work on projects with other people - do shoot me a message if you are interested in building something cool!
 
