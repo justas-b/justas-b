@@ -10,10 +10,10 @@
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=blue)](https://www.linkedin.com/in/justasbauras/)
 
 ## Frequently Used Tools 🟩🛠️
-![My Skills](https://skillicons.dev/icons?i=py,html,css,bash,powershell,git,github,githubactions,md,vscode,regex,docker,azure,kubernetes)
+![My Skills](https://skillicons.dev/icons?i=py,html,css,bash,powershell,git,github,githubactions,md,vscode,regex,docker,azure,kubernetes,postman)
 
 ## Past Exposure 🟨🛠️
-![My Skills](https://skillicons.dev/icons?i=fastapi,js,cpp,postgres,postman,flask,aws,latex,mysql,anaconda,sklearn)
+![My Skills](https://skillicons.dev/icons?i=fastapi,js,cpp,postgres,flask,aws,latex,mysql,anaconda,sklearn)
 
 <details>
 <summary> ⚡ Github Stats</summary>
