@@ -1,10 +1,7 @@
-### Hello! I'm Justas 👋
+# Market Data Engineer @ Glencore
+▪️ Experienced in e-commerce, financial markets, commodities, data engineering and analytics (highly concentrated on time series and financial data), software development, deployment and maintenance, automation, validation, and technical root-cause analysis.
 
-▪️ Market data engineer at Glencore - working on market data projects, that include automation, price validation, development and data (enablement, enrichment and analysis).
-  
 ▪️ MSci Physics - Royal Holloway University of London.
-  
-▪️ Experienced in e-commerce, financial markets, commodities, data engineering and analytics (highly concentrated on time series and financial data), software development, deployment and maintenance, automation, validation and more!
 
 ## Connect With Me 💬
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=blue)](https://www.linkedin.com/in/justasbauras/)
