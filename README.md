@@ -1,6 +1,6 @@
 ### Hello! I'm Justas 👋
 
-▪️ Market data engineer at Glencore - working on several market data projects, that include automation, validation, development and data (enablement, enrichment and analysis).
+▪️ Market data engineer at Glencore - working on market data projects, that include automation, price validation, development and data (enablement, enrichment and analysis).
   
 ▪️ MSci Physics - Royal Holloway University of London.
   
