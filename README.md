@@ -1,7 +1,3 @@
-Experienced in e-commerce, financial markets, commodities, data engineering and analytics (highly concentrated on time series and financial data), software development, deployment and maintenance, automation, validation, and technical root-cause analysis.
-
-MSci Physics - Royal Holloway University of London.
-
 ## Connect With Me 💬
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=blue)](https://www.linkedin.com/in/justasbauras/)
 
